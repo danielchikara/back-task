@@ -1,5 +1,5 @@
 # Task api 
-
+task es una api que nos permite crear tareas y elminarlas con nuestro usuario
 
 
 Requisitos funcionales: https://suave-phlox-72b.notion.site/Requerimientos-Funcionales-828fba0f2d2e4073ba4e08071e68cacf
