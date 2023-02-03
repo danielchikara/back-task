@@ -27,6 +27,6 @@ node app.js
 
 
 ## Autenticación
-La autenticación es por medio token. y esta disponible para todas las acciones de tareas
+La autenticación es por medio token, y esta disponible para todas las acciones de tareas
 
 
